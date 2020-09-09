@@ -1,1 +1,3 @@
-Test
+September 11th, 2020
+
+Question: Which states are/have been swing states? Which are no longer swing states?
