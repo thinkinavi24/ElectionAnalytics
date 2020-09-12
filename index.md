@@ -17,6 +17,8 @@ Finally, from 2012 to 2016, we see the midwest shift red while some southern sta
 
 ![2012-2016 Changes](https://user-images.githubusercontent.com/70708980/92979984-5ea40000-f462-11ea-8bfd-c8a9481be140.png)
 
+We see that Utah is the darkest red state from 2008 to 2012 and the darkest blue state from 2012 to 2016. However, this is likely due to Mitt Romney's popularity in his home state and is not indicative of Utah swinging broadly from one election to the next in general.
+
 There are a number of interesting trends that we can note from these swing maps. For example, we see that from 2008 to 2012 and from 2012 to 2016 that Missouri has gotten progressively redder. In 2008, John McCain narrowly beat Barack Obama in Missouri with a slim margin of 0.135% of the two party vote. A former swing state, Missouri now appears to be safely in Republican hands.
  
 We can also see that several reliably blue states are trending towards being much more swingy. For example, Democrats have won Minnesota in every election since 1976, including in 1984 when Ronald Reagan won every other state (although it is worth noting that his opponent Walter Mondale was from Minnesota, which enabled him to escape with a 0.182% majority of the two party vote). However, we see that from 2008 to 2012 and from 2012 to 2016, Minnesota has swerved much closer to the center.
