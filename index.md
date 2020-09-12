@@ -12,9 +12,11 @@ We see a large blue wave from 2004 to 2008 across the country:
 
 Then, from 2008 to 2012, things mostly stayed the same, with some states going slightly red:
 
+![2008-2012](https://user-images.githubusercontent.com/70708980/92979981-5ba90f80-f462-11ea-8060-e1493a25b99f.png)
+
 Finally, from 2012 to 2016, we see:
 
-
+![2012-2016 Changes](https://user-images.githubusercontent.com/70708980/92979984-5ea40000-f462-11ea-8bfd-c8a9481be140.png)
 
 There are a number of interesting trends that we can note from these swing maps. For example, we see that from 2008 to 2012 and from 2012 to 2016 that Missouri has gotten progressively redder. In 2008, John McCain narrowly beat Barack Obama in Missouri with a slim margin of 0.135% of the two party vote. A former swing state, Missouri now appears to be safely in Republican hands.
  
