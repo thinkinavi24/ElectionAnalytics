@@ -15,9 +15,12 @@ states_map <- usmap::us_map()
 unique(states_map$abbr)
 
 pv_swing_map <- pvstate_df %>%
+
   select(year, state, D_pv2p) %>%
+  
   mutate(D_pv2p_lastyr = lag(D_pv2p, n = 51, order_by = year),
          swing_margin = D_pv2p - D_pv2p_lastyr) %>%
+         
   filter(year ==  2008)
 
 
