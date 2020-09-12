@@ -1,3 +1,5 @@
+#Swing map. Looks at differences in the Democratic proportion of the two party popular vote by state.
+
 library(tidyverse)
 
 library(ggplot2)
@@ -14,7 +16,7 @@ pv_swing_map <- pvstate_df %>%
   select(year, state, D_pv2p) %>%
   mutate(D_pv2p_lastyr = lag(D_pv2p, n = 51, order_by = year),
          swing_margin = D_pv2p - D_pv2p_lastyr) %>%
-  filter(year ==  2008)
+  filter(year ==  2008) #Gives 2004-2008 map. Can change to 2012 or 2016 to get the other two maps.
 
 
 plot_usmap(data = pv_swing_map, regions = "states", values = "swing_margin") +
