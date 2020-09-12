@@ -9,7 +9,7 @@ These states are expected to be close in the 2020 election, and whoever wins the
 We see a large blue wave from 2004 to 2008 across the country:
 ![2004-2008](https://user-images.githubusercontent.com/70708980/92980174-1d602000-f463-11ea-9124-c388c1d62c7d.png)
 
-Then, from 2008 to 2012, things mostly stayed the same, with some states going slightly red:
+Then, from 2008 to 2012, things mostly stayed the same, with some light red shifts throughout the country:
 
 ![2008-2012](https://user-images.githubusercontent.com/70708980/92979981-5ba90f80-f462-11ea-8060-e1493a25b99f.png)
 
