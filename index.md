@@ -7,7 +7,6 @@ Prediction: In the 2020 election, based solely on trends in the popular vote wit
 These states are expected to be close in the 2020 election, and whoever wins the majority of them will almost certainly be the next President of the United States. Here, we look at how the swing states have changed over time. To do this, we only consider the two party vote for each state, and we compute the difference between the Democratic proportion of the two party vote in year y and in year y-4. While we typically think of swing states as having extremely close elections, under this model we are actually looking for larger differences between two consecutive presidential elections in order to see which states swing significantly from one election to the next.
 
 We see a large blue wave from 2004 to 2008 across the country:
-
 ![2004-2008](https://user-images.githubusercontent.com/70708980/92980174-1d602000-f463-11ea-9124-c388c1d62c7d.png)
 
 Then, from 2008 to 2012, things mostly stayed the same, with some states going slightly red:
