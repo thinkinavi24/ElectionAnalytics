@@ -13,7 +13,7 @@ Then, from 2008 to 2012, things mostly stayed the same, with some light red shif
 
 ![2008-2012](https://user-images.githubusercontent.com/70708980/92979981-5ba90f80-f462-11ea-8060-e1493a25b99f.png)
 
-Finally, from 2012 to 2016, we see:
+Finally, from 2012 to 2016, we see the midwest shift red while some southern states shift blue:
 
 ![2012-2016 Changes](https://user-images.githubusercontent.com/70708980/92979984-5ea40000-f462-11ea-8bfd-c8a9481be140.png)
 
