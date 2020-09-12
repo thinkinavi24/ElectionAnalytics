@@ -6,7 +6,7 @@ Prediction: In the 2020 election, based solely on trends in the popular vote wit
 
 These states are expected to be close in the 2020 election, and whoever wins the majority of them will almost certainly be the next President of the United States. Here, we look at how the swing states have changed over time. To do this, we only consider the two party vote for each state, and we compute the difference between the Democratic proportion of the two party vote in year y and in year y-4. While we typically think of swing states as having extremely close elections, under this model we are actually looking for larger differences between two consecutive presidential elections in order to see which states swing significantly from one election to the next.
 
-
+![2004-2008](https://user-images.githubusercontent.com/70708980/92980174-1d602000-f463-11ea-9124-c388c1d62c7d.png)
 
 There are a number of interesting trends that we can note from these more recent maps and the historical data. For example, the 2016 map shows Missouri as fairly red, and Donald Trump had a winning margin of 19.6% of the two party vote compared to Hillary Clinton. However, we see that from 2008 to 2012 and from 2012 to 2016 that Missouri has gotten progressively redder. In 2008, John McCain narrowly beat Barack Obama in Missouri with a slim margin of 0.135% of the two party vote. A former swing state, Missouri now appears to be safely in Republican hands.
  
