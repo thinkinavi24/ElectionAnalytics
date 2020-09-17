@@ -1,3 +1,8 @@
+**Effects of the Economy on the Incumbent President's Chances**
+
+September 19th, 2020
+
+
 September 12th, 2020
 
 Question: Which states are/have been swing states? Which are no longer swing states?
