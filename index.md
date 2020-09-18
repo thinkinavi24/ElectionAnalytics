@@ -14,6 +14,8 @@ We begin by looking at the relationship between second quarter RDI_Growth and th
 
 We get is a correlation between RDI_growth in the second quarter and the popular vote of the incumbent candidate of approximately 0.75. The best fit line above is given by the equation y = 500.68x + 48.33. Since the second quarter RDI growth of 2020 was 0.097%, this model would predict that Donald Trump would win 500.68(0.09724) + 48.33 = 97.01% of the vote! Obviously, this is absurd and no electoral predictions for this election are remotely close to this. The issue here is that the RDI_growth in the second quarter of 2020 was fairly high at 0.097% as the government passed the PPP and stimulus checks in order to help businesses continue to pay their workers as they shut down due to COVID 19.
 
+We also get a visible relationship between second quarter RDI_growth and the incumbent party candidate's national popular vote:
+
 ![RDI Growth Incumbent Party](https://user-images.githubusercontent.com/70708980/93630437-0fa52000-f9b8-11ea-99ca-cb26a84eb9b8.png)
 
 
