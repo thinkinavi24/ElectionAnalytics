@@ -8,7 +8,7 @@ Prediction for 2020: Although the economy appears to have a stronger effect for 
 
 We examine the relationship between the national popular vote in presidential elections for an incumbent President versus an incumbent party candidate relative to two economic factors: real disposable income and the unemployment rate in the second quarter, as this is fresh in voters' minds when they cast their ballots in November. Each of these factors impacts different groups of people in different ways. We note that many people will always vote Democrat or Republican based on their views on issues such as healthcare, abortion, religion, and more. These people comprise the majority of voters in very liberal states like California and Massachusetts or very conservative states like West Virginia or Oklahoma. However, for undecided voters, the predominant question is which candidate is more likely to improve their lives the most. Especially as COVID 19 has led many people to lose their jobs, many voters will be looking to choose the candidate whom they believe will get them back on their feet and save them from getting evicted.
 
-We begin by looking at the relationship between second quarter RDI_Growth and the incumbent president's national popular vote: 
+We begin by looking at the relationship between second quarter RDI Growth and the incumbent president's national popular vote: 
 
 ![Second Quarter RDI Growth](https://user-images.githubusercontent.com/70708980/93628693-f77fd180-f9b4-11ea-824b-717c18d1042a.png)
 
@@ -24,9 +24,15 @@ Now we look at the relationship between second quarter unemployment rate and the
 
 ![Second Quarter Unemployment Rate](https://user-images.githubusercontent.com/70708980/93628915-60674980-f9b5-11ea-83d7-f52edff8f3dd.png)
 
-We see that unemployment in the second quarter actually has very low correlation with the popular vote of the incumbent. Perhaps this is because the majority of voters in any given election are not going to be unemployed, so whether the unemployment rate is 4% or 6% does not seem to be a good indicator of whether the incumbent will win reelection. With regards to the 2020 election, many have speculated that the economic downturn will lead many voters to blame Donald Trump and vote for Joe Biden. However, this is not backed up by historical data and suggests that voters do not generally associate the unemployment rate with the current President. In 2020 especially, many voters are likely to blame the pandemic as opposed to the government if they got laid off due to the lockdown. For this reason, Joe Biden’s best strategy in this regard is to actively blame Donald Trump for allowing COVID 19 to become this widespread for this long. Otherwise, the historical data indicates that Donald Trump will not be as damaged by the rise in unemployment as the media have speculated.
+We see that unemployment in the second quarter actually has very low correlation, about -0.16, with the popular vote of the incumbent. Perhaps this is because the majority of voters in any given election are not going to be unemployed, so whether the unemployment rate is 4% or 6% does not seem to be a good indicator of whether the incumbent will win reelection. With regards to the 2020 election, many have speculated that the economic downturn will lead many voters to blame Donald Trump and vote for Joe Biden. However, this is not backed up by historical data and suggests that voters do not generally associate the unemployment rate with the current President. In 2020 especially, many voters are likely to blame the pandemic as opposed to the government if they got laid off due to the lockdown. For this reason, Joe Biden’s best strategy in this regard is to actively blame Donald Trump for allowing COVID 19 to become this widespread for this long. Otherwise, the historical data indicates that Donald Trump will not be as damaged by the rise in unemployment as the media have speculated.
+
+If instead we look at the incumbent party rather than just an incumbent President, we get an even lower correlation:
 
 ![Unemployment Incumbent Party](https://user-images.githubusercontent.com/70708980/93630412-087e1200-f9b8-11ea-8254-c7e5806b3199.png)
+
+Visually, we can see that there is no relationship between these two variables, and the correlation is about 0.0067. Similar to our observations with RDI growth, this also suggests that voters do not make an association between the previous president's party and the incumbent party candidate. 
+
+
 
 September 12th, 2020
 
