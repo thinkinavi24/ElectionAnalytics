@@ -2,6 +2,11 @@
 
 September 19th, 2020
 
+![Second Quarter RDI Growth](https://user-images.githubusercontent.com/70708980/93628693-f77fd180-f9b4-11ea-824b-717c18d1042a.png)
+
+![Second Quarter Unemployment Rate](https://user-images.githubusercontent.com/70708980/93628915-60674980-f9b5-11ea-83d7-f52edff8f3dd.png)
+
+
 
 September 12th, 2020
 
