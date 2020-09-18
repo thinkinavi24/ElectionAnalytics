@@ -2,13 +2,6 @@
 
 September 19th, 2020
 
-![RDI Growth vs Incumbent](https://user-images.githubusercontent.com/70708980/93625214-93a6da00-f9af-11ea-85e4-ceeb70b48573.png)
-
-
-
-
-
-![Unemployment vs Incumbency](https://user-images.githubusercontent.com/70708980/93625224-96a1ca80-f9af-11ea-8db8-288c7d4350ee.png)
 
 September 12th, 2020
 
