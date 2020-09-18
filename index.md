@@ -26,13 +26,13 @@ Now we look at the relationship between second quarter unemployment rate and the
 
 We see that unemployment in the second quarter actually has very low correlation, about -0.16, with the popular vote of the incumbent. Perhaps this is because the majority of voters in any given election are not going to be unemployed, so whether the unemployment rate is 4% or 6% does not seem to be a good indicator of whether the incumbent will win reelection. With regards to the 2020 election, many have speculated that the economic downturn will lead many voters to blame Donald Trump and vote for Joe Biden. However, this is not backed up by historical data and suggests that voters do not generally associate the unemployment rate with the current President. In 2020 especially, many voters are likely to blame the pandemic as opposed to the government if they got laid off due to the lockdown. For this reason, Joe Biden’s best strategy in this regard is to actively blame Donald Trump for allowing COVID 19 to become this widespread for this long. Otherwise, the historical data indicates that Donald Trump will not be as damaged by the rise in unemployment as the media have speculated.
 
-If instead we look at the incumbent party rather than just an incumbent President, we get an even lower correlation:
+If instead we look at the incumbent party rather than just an incumbent President, the correlation vanishes entirely:
 
 ![Unemployment Incumbent Party](https://user-images.githubusercontent.com/70708980/93630412-087e1200-f9b8-11ea-8254-c7e5806b3199.png)
 
 Visually, we can see that there is no relationship between these two variables, and the correlation is about 0.0067. Similar to our observations with RDI growth, this also suggests that voters do not make an association between the previous president's party and the incumbent party candidate. 
 
-
+From these models, it does not appear that the predictive power of the economy has changed significantly over time, since the data from 50 years ago or more appears to be distributed similarly to the data in more recent elections. Rather, it suggests that single variables such as RDI growth or the unemployment rate appear to be too contrived to accurately reflect voters' opinions for the next presidential election, especially when a sitting president is not running for reelection. For this reason, it is difficult to extrapolate from this data in any meaningful way to predict the outcome of the 2020 election, particularly with the unprecedented impact of COVID 19 this year. In order to accurately predict the 2020 election, other variables outside of the economy should be considered.
 
 September 12th, 2020
 
