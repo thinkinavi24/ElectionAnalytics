@@ -12,15 +12,19 @@ We begin by looking at the relationship between second quarter RDI_Growth and th
 
 ![Second Quarter RDI Growth](https://user-images.githubusercontent.com/70708980/93628693-f77fd180-f9b4-11ea-824b-717c18d1042a.png)
 
-We get is a correlation between RDI_growth in the second quarter and the popular vote of the incumbent candidate of approximately 0.75. The best fit line above is given by the equation y = 500.68x + 48.33. Since the second quarter RDI growth of 2020 was 0.097%, this model would predict that Donald Trump would win 500.68(0.09724) + 48.33 = 97.01% of the vote! Obviously, this is absurd and no electoral predictions for this election are remotely close to this. The issue here is that the RDI_growth in the second quarter of 2020 was fairly high at 0.097% as the government passed the PPP and stimulus checks in order to help businesses continue to pay their workers as they shut down due to COVID 19.
+We get is a correlation between RDI_growth in the second quarter and the popular vote of the incumbent candidate of approximately 0.746. The best fit line above is given by the equation y = 500.68x + 48.33. Since the second quarter RDI growth of 2020 was 0.097%, this model would predict that Donald Trump would win 500.68(0.09724) + 48.33 = 97.01% of the vote! Obviously, this is absurd and no electoral predictions for this election are remotely close to this. The issue here is that the RDI_growth in the second quarter of 2020 was fairly high at 0.097% as the government passed the PPP and stimulus checks in order to help businesses continue to pay their workers as they shut down due to COVID 19.
 
 We also get a visible relationship between second quarter RDI_growth and the incumbent party candidate's national popular vote:
 
 ![RDI Growth Incumbent Party](https://user-images.githubusercontent.com/70708980/93630437-0fa52000-f9b8-11ea-99ca-cb26a84eb9b8.png)
 
+This graph includes both the sitting presidents running for reelection as well as incumbent party candidates. Here, while we do see a general positive trend, we only get a correlation of 0.507. This indicates that voters do not associate the current growth in rdi with the political party in the White House as much as they associate it with the President himself. Further, part of the trend we see in this graph is influenced by the previously observed trend with sitting presidents. 
+
+Now we look at the relationship between second quarter unemployment rate and the national popular vote of sitting presidents:
 
 ![Second Quarter Unemployment Rate](https://user-images.githubusercontent.com/70708980/93628915-60674980-f9b5-11ea-83d7-f52edff8f3dd.png)
 
+We see that unemployment in the second quarter actually has very low correlation with the popular vote of the incumbent. Perhaps this is because the majority of voters in any given election are not going to be unemployed, so whether the unemployment rate is 4% or 6% does not seem to be a good indicator of whether the incumbent will win reelection. With regards to the 2020 election, many have speculated that the economic downturn will lead many voters to blame Donald Trump and vote for Joe Biden. However, this is not backed up by historical data and suggests that voters do not generally associate the unemployment rate with the current President. In 2020 especially, many voters are likely to blame the pandemic as opposed to the government if they got laid off due to the lockdown. For this reason, Joe Biden’s best strategy in this regard is to actively blame Donald Trump for allowing COVID 19 to become this widespread for this long. Otherwise, the historical data indicates that Donald Trump will not be as damaged by the rise in unemployment as the media have speculated.
 
 ![Unemployment Incumbent Party](https://user-images.githubusercontent.com/70708980/93630412-087e1200-f9b8-11ea-8254-c7e5806b3199.png)
 
