@@ -1,4 +1,4 @@
-**Effects of the Economy on the Incumbent President's Chances**
+**Effects of Economic Variables on the National Popular Vote**
 
 September 19th, 2020
 
