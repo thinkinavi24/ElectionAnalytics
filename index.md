@@ -2,6 +2,14 @@
 
 September 19th, 2020
 
+Question: How can aspects of the economy, specifically real disposable income growth, unemployment, and the stock market predict an incumbent President’s success at reelection?
+
+Prediction: 
+
+We examine the relationship between the national popular vote in presidential elections and three economic factors: real disposable income, unemployment, and the stock market. Each of these factors impacts different groups of people in different ways. We note that many people will always vote Democrat or Republican based on their views on issues such as healthcare, abortion, religion, and more. These people comprise the majority of voters in very liberal states like California and Massachusetts or very conservative states like West Virginia or Oklahoma. However, for undecided voters, the predominant question is which candidate is more likely to improve their lives the most. Especially as COVID 19 has led many people to lose their jobs, many voters will be looking to choose the candidate whom they believe will get them back on their feet and save them from getting evicted.
+
+We begin by looking at RDI_Growth, specifically the second quarter, as this is fresh in voters' minds when they cast their ballots in November.
+
 ![Second Quarter RDI Growth](https://user-images.githubusercontent.com/70708980/93628693-f77fd180-f9b4-11ea-824b-717c18d1042a.png)
 
 ![Second Quarter Unemployment Rate](https://user-images.githubusercontent.com/70708980/93628915-60674980-f9b5-11ea-83d7-f52edff8f3dd.png)
