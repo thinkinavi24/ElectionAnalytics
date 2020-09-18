@@ -2,17 +2,17 @@
 
 September 19th, 2020
 
-Question: How can aspects of the economy, specifically real disposable income growth, unemployment, and the stock market predict an incumbent President’s success at reelection?
+Question: Is the effect of the economy stronger for sitting presidents running for re-election compared to same-party heirs seeking the office? Does the predictive power of economy change across time? If so, why?
 
 Prediction: 
 
-We examine the relationship between the national popular vote in presidential elections and three economic factors: real disposable income, unemployment, and the stock market. Each of these factors impacts different groups of people in different ways. We note that many people will always vote Democrat or Republican based on their views on issues such as healthcare, abortion, religion, and more. These people comprise the majority of voters in very liberal states like California and Massachusetts or very conservative states like West Virginia or Oklahoma. However, for undecided voters, the predominant question is which candidate is more likely to improve their lives the most. Especially as COVID 19 has led many people to lose their jobs, many voters will be looking to choose the candidate whom they believe will get them back on their feet and save them from getting evicted.
+We examine the relationship between the national popular vote in presidential elections for an incumbent President versus an incumbent party candidate and two economic factors: real disposable income and unemployment. Each of these factors impacts different groups of people in different ways. We note that many people will always vote Democrat or Republican based on their views on issues such as healthcare, abortion, religion, and more. These people comprise the majority of voters in very liberal states like California and Massachusetts or very conservative states like West Virginia or Oklahoma. However, for undecided voters, the predominant question is which candidate is more likely to improve their lives the most. Especially as COVID 19 has led many people to lose their jobs, many voters will be looking to choose the candidate whom they believe will get them back on their feet and save them from getting evicted.
 
-We begin by looking at RDI_Growth, specifically the second quarter, as this is fresh in voters' minds when they cast their ballots in November.
+We begin by looking at RDI_Growth, specifically the second quarter, as this is fresh in voters' minds when they cast their ballots in November. 
 
 ![Second Quarter RDI Growth](https://user-images.githubusercontent.com/70708980/93628693-f77fd180-f9b4-11ea-824b-717c18d1042a.png)
 
-We get is a correlation between RDI_growth in the second quarter and the popular vote of the incumbent candidate of approximately 0.75. Under this model, we would expect that Donald Trump would win 500.68(0.09724) + 48.33 = 97.01% of the vote! Obviously, this is absurd and no electoral predictions for this election are remotely close to this. The issue here is that the RDI_growth in the second quarter of 2020 was fairly high at 0.097% as the government passed the PPP and stimulus checks in order to help businesses continue to pay their workers as they shut down due to COVID 19. 
+We get is a correlation between RDI_growth in the second quarter and the popular vote of the incumbent candidate of approximately 0.75. The best fit line above is given by the equation y = 500.68x + 48.33. Since the second quarter RDI growth of 2020 was 0.097%, this model would predict that Donald Trump would win 500.68(0.09724) + 48.33 = 97.01% of the vote! Obviously, this is absurd and no electoral predictions for this election are remotely close to this. The issue here is that the RDI_growth in the second quarter of 2020 was fairly high at 0.097% as the government passed the PPP and stimulus checks in order to help businesses continue to pay their workers as they shut down due to COVID 19. 
 
 
 ![Second Quarter Unemployment Rate](https://user-images.githubusercontent.com/70708980/93628915-60674980-f9b5-11ea-83d7-f52edff8f3dd.png)
