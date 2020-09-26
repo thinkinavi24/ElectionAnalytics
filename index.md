@@ -23,6 +23,8 @@ We can use these linear regression models between the average poll six to nine w
 Despite this, the errors are small enough that we can apply this same model to 2020, albeit with a bit of caution. We can also note that the pollsters themselves are adjusting to expect a higher uneducated, white male voter turnout than they did in 2016, so there is reason to believe that the 2020 polls will be more accurate, especially in places like Wisconsin and Michigan. If we run the regressions and plug in the 2020 polling data, we get that Arizona, Texas, and Georgia are likely going Republican by about 53%, while Wisconsin and Michigan are likely going Democratic by about 54%. Meanwhile, Florida, North Carolina, Ohio, and Iowa are all around the 51% mark, and Pennsylvania is likely a tossup. This is summarized in the following electoral map, made using the website www.270towin.com:
 
 <div align="center"><a href="https://www.270towin.com/maps/l7YEg"><img src="https://www.270towin.com/map-images/l7YEg.png" width="800"></a><br><small><img style="vertical-align:middle;" src="https://www.270towin.com/uploads/3rd_party_270_30px.png" alt="" /> Click the map to create your own at <a href="https://www.270towin.com/maps/l7YEg">270toWin.com</a></small></div>
+
+With such slim margins, it is not safe to call Florida, Pennsylvania, Ohio, Iowa, or North Carolina one way or another. However, Joe Biden only needs one of these states to win (or two if Iowa is one of them), whereas Donald Trump must win all four states besides Iowa. Combined with Joe Biden's slight leads in these states, he remains the clear favorite in 2020, but his victory is definitely not guaranteed.
 	
 **Effects of Economic Variables on the National Popular Vote**
 
