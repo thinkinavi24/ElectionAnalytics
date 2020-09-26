@@ -1,3 +1,23 @@
+**Using State Polls to Build a 2020 Electoral Map Prediction**
+
+September 26th, 2020
+
+Question: How can we use previous election years’ polling data by state in comparison with the actual vote by state to predict this year’s electoral map based on current 2020 state polling data?
+
+Prediction: Joe Biden appears to be favored, but he does not have a "guaranteed" blue firewall. It is likely that he will win Michigan and Wisconsin, while Donald Trump will likely win Arizona, Texas, and Georgia. Then, North Carolina, Florida, Pennsylvania, Iowa, and Ohio remain the key deciders. They all appear to be leaning blue but only by a slim margin. If Joe Biden wins even one of these states, and holds on to every state Hillary Clinton won in 2016, then he will surpass 270 electoral votes. On the other hand, Donald Trump must win all five of thes states in order to be reelected.  
+
+	Based on observations in popular vote trends by state from week 1, as well as common knowledge about the most competitive states in 2020, the swing states this year are likely Florida, Georgia, Pennsylvania, North Carolina, Arizona, Wisconsin, Michigan, Texas, Ohio, and Iowa. To make more informed predictions for each state, we look at how accurately the polls between six to eight weeks before the election are at making predictions. The results are somewhat surprising. The actual Democratic share of the two party vote in Arizona has a correlation of approximately zero with the average poll of Democratic support, while the Republican share of the two party vote has a correlation of nearly 0.9 with the average poll of Republican support. Meanwhile, Pennsylvania has a low correlation between the actual votes and the polls for either party. We see the full results below:
+
+	Based on these observations, we can conclude that the most reliable Republican polls for 2020 are likely in Arizona and Texas, while the most reliable Democratic ones are in North Carolina, Iowa, and Wisconsin. Meanwhile, the Democratic polls in Florida and Michigan and the Republican polls in Georgia are somewhat reliable. Pennsylvania is the least reliable: the two party vote in Pennsylvania always comes around to just around 50-50 regardless of the polling averages. While Pennsylvania did vote blue every year since 1992, this suggests that it was wrong to consider Pennsylvania as part of Hillary Clinton’s “blue wall,” since the Democratic margin of victory was always very slim. It also suggests that regardless of Joe Biden’s current lead in the polls, Pennsylvania remains a near tossup. 
+	
+	For the other states, and especially Arizona, Texas, North Carolina, Iowa, Wisconsin, and Ohio, we can build linear regression models between the average poll and the actual two party vote in each of the states. To assess the accuracy of these models, we use out of sample testing by making the regressions based on data through the 2012 election and seeing how well we can predict 2016. We get the table below:
+
+	We see that we predict Arizona, Florida, Georgia, and Texas all within 1% of the actual vote. The errors are somewhat larger for North Carolina, Ohio, and Iowa, but the model still correctly predicts that Donald Trump should win as he did. The model does predict that Pennsylvania, Wisconsin, and Michigan would all go for Hillary Clinton and of course they very famously did not, but our observations above explain that Pennsylvania should never be trusted. Wisconsin and Michigan were right around the 50% mark, and the model slightly favors Clinton.
+	
+	Applying this same model to 2020, we get the following:
+
+
+
 **Effects of Economic Variables on the National Popular Vote**
 
 September 19th, 2020
@@ -34,11 +54,7 @@ Visually, we can see that there is no relationship between these two variables, 
 
 From these models, it does not appear that the predictive power of the economy has changed significantly over time, since the data from 50 years ago or more appears to be distributed similarly to the data in more recent elections. Rather, it suggests that single variables such as RDI growth or the unemployment rate appear to be too contrived to accurately reflect voters' opinions for the next presidential election, especially when a sitting president is not running for reelection. For this reason, it is difficult to extrapolate from this data in any meaningful way to predict the outcome of the 2020 election, particularly with the unprecedented impact of COVID 19 this year. In order to accurately predict the 2020 election, other variables outside of the economy should be considered.
  
- 
- 
-  
- 
- 
+**Swing States in the Past and in 2020** 
  
 September 12th, 2020
 
