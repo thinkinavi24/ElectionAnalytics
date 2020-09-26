@@ -10,11 +10,11 @@ Based on observations in popular vote trends by state from week 1, as well as co
 
 ![Texas Polling](https://user-images.githubusercontent.com/70708980/94343525-d20f4b00-ffe6-11ea-9705-0b83994711f8.png)
 
-On the other hand, Pennsylvania is very unreliable: the two party vote in Pennsylvania always comes around to just around 50-50 regardless of the polling averages as we can see below: 
+On the other hand, Pennsylvania is very unpredictable: the two party vote in Pennsylvania always comes around to just around 50-50 regardless of the polling averages as we can see below: 
 
 ![Pennsylvania Polling](https://user-images.githubusercontent.com/70708980/94343696-e43db900-ffe7-11ea-9f98-25f272c1ceee.png)
 
-While Pennsylvania did vote blue every year since 1992,  the Democratic margin of victory was always very slim, which suggests that it was wrong to consider Pennsylvania as part of Hillary Clinton’s “blue wall" in 2016. It also suggests that regardless of Joe Biden’s current lead in the polls, Pennsylvania remains a near tossup. 
+The Republican poll averages in Pennsylvania are similarly uncorrelated with the actual two party vote. While Pennsylvania did vote blue every year since 1992, the Democratic margin of victory was always very slim, which suggests that it was wrong to consider Pennsylvania as part of Hillary Clinton’s “blue wall" in 2016. It also suggests that regardless of Joe Biden’s current lead in the polls, Pennsylvania remains a near tossup. 
 
 By looking at all of the correlations and regressions for each swing state, we can conclude that the most reliable Republican polls for 2020 are likely in Arizona and Texas, while the most reliable Democratic ones are in North Carolina, Iowa, and Wisconsin. Meanwhile, the Democratic polls in Florida and Michigan and the Republican polls in Georgia are somewhat reliable.  
 	
