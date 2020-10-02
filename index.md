@@ -1,3 +1,19 @@
+**The Role of Incumbency in the 2020 Election**
+
+Question: Does incumbency help Donald Trump in 2020?
+
+Prediction: There is no indication that incumbency helps Donald Trump. For this reason, last week’s prediction that Joe Biden will win in 2020 still stands. 
+
+	Since World War II, incumbent presidents have won reelection in all but three cases. Despite this, there is reason to believe that 2020 will be different. For example, Joe Biden is currently leading by about 8 points nationally over incumbent President Donald Trump, while on October 3, 2016, Hillary Clinton held only a 3.7% lead over then candidate Donald Trump according to 538. 
+	We can compare national polls taken between 32 and 34 days before the election and see how well they predict the popular vote for incumbent Presidents. This is shown in the graph below:
+	We see visually that there is a very high correlation between the incumbent President’s polling average and the actual popular vote, and this correlation turns out to be 0.978. To check that the model is not overfitted to the data, we can omit the 2012 election and see how well we predict it. We predict that Barack Obama would get about 49.1% of the popular vote, and he actually got 50.9%, so the model is accurate within a couple of percentage points. 
+	According to 538, the latest polls have Donald Trump around 42%. Plugging this into the regression, we get a predicted national vote share of about 43%. This would put Donald Trump very low on the graph above, near 1980 and 1992, which are two of the three years since World War II that the incumbent President has lost reelection.
+	At the end of last week, we predicted the following electoral map based on the trends in polls by swing states compared to the actual vote in those swing states:
+
+	While Donald Trump famously lost the popular vote in 2016 but still won the electoral college, the map above indicates that his chances of doing so this year are much slimmer. One possible reason is that voters tend to blame the incumbents for things not necessarily within their control. Although the government passed a lot of stimulus programs in order to help people financially who lost their jobs due to COVID 19, millions are still facing eviction. Many of these people may blame this on the federal government and especially Donald Trump, who is the face of the government, and therefore not support him in 2020. Combined with other major events this year including wildfires, hurricanes, and protests, voters may be ready for a change.
+	Whether we look at the numbers themselves or the many events that have happened in 2020, nothing indicates that Donald Trump benefits from being the incumbent candidate. As a result, the prediction from last week that Joe Biden will win the presidency still stands. 
+
+
 **Using State Polls to Build a 2020 Electoral Map Prediction**
 
 September 26th, 2020
