@@ -4,7 +4,7 @@ Question: Does incumbency help Donald Trump in 2020?
 
 Prediction: There is no indication that incumbency helps Donald Trump. For this reason, last week’s prediction that Joe Biden will win in 2020 still stands. 
 
-Since World War II, incumbent presidents have won reelection in all but three cases. Despite this, there is reason to believe that 2020 will be different. For example, Joe Biden is currently leading by about 8 points nationally over incumbent President Donald Trump, while on October 3, 2016, Hillary Clinton held only a 3.7% lead over then candidate Donald Trump according to 538. 
+Since World War II, incumbent presidents have won reelection in all but three cases. Despite this, there is reason to believe that 2020 will be different. For example, Joe Biden is currently leading by about 8 points nationally over incumbent President Donald Trump: https://projects.fivethirtyeight.com/polls/president-general/national/. Meanwhile on October 3, 2016, Hillary Clinton held only a 3.7% lead over then candidate Donald Trump: https://projects.fivethirtyeight.com/2016-election-forecast/national-polls/.
 	
 We can compare national polls taken between 32 and 34 days before the election and see how well they predict the popular vote for incumbent Presidents. This is shown in the graph below:
 
