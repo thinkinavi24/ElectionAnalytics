@@ -15,7 +15,7 @@ We see visually that there is a very high correlation between the incumbent Pres
 
 According to 538, the latest polls have Donald Trump around 42%. Plugging this into the regression, we get a predicted national vote share of about 43%. This would put Donald Trump very low on the graph above, near 1980 and 1992, which are two of the three years since World War II that the incumbent President has lost reelection. It also puts him below 1976, where Gerald Ford lost to Jimmy Carter.
 
-At the end of last week, we predicted the following electoral map using www.270towin.com based on the trends in polls by swing states compared to the actual vote in those swing states:
+At the end of last week, we predicted the following electoral map made using www.270towin.com based on the trends in polls by swing states compared to the actual vote in those swing states:
 
 <div align="center"><a href="https://www.270towin.com/maps/l7YEg"><img src="https://www.270towin.com/map-images/l7YEg.png" width="800"></a><br><small><img style="vertical-align:middle;" src="https://www.270towin.com/uploads/3rd_party_270_30px.png" alt="" /> Click the map to create your own at <a href="https://www.270towin.com/maps/l7YEg">270toWin.com</a></small></div>
 	
