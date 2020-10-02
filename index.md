@@ -13,8 +13,9 @@ We see visually that there is a very high correlation between the incumbent Pres
 
 According to 538, the latest polls have Donald Trump around 42%. Plugging this into the regression, we get a predicted national vote share of about 43%. This would put Donald Trump very low on the graph above, near 1980 and 1992, which are two of the three years since World War II that the incumbent President has lost reelection.
 
-At the end of last week, we predicted the following electoral map based on the trends in polls by swing states compared to the actual vote in those swing states:
+At the end of last week, we predicted the following electoral map using www.270towin.com based on the trends in polls by swing states compared to the actual vote in those swing states:
 
+<div align="center"><a href="https://www.270towin.com/maps/l7YEg"><img src="https://www.270towin.com/map-images/l7YEg.png" width="800"></a><br><small><img style="vertical-align:middle;" src="https://www.270towin.com/uploads/3rd_party_270_30px.png" alt="" /> Click the map to create your own at <a href="https://www.270towin.com/maps/l7YEg">270toWin.com</a></small></div>
 	
 While Donald Trump famously lost the popular vote in 2016 but still won the electoral college, the map above indicates that his chances of doing so this year are much slimmer. One possible reason is that voters tend to blame the incumbents for things not necessarily within their control. Although the government passed a lot of stimulus programs in order to help people financially who lost their jobs due to COVID 19, millions are still facing eviction. Many of these people may blame this on the federal government and especially Donald Trump, who is the face of the government, and therefore not support him in 2020. Combined with other major events this year including wildfires, hurricanes, and protests, voters may be ready for a change.
 	
