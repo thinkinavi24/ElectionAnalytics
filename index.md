@@ -6,7 +6,9 @@ Prediction: There is no indication that incumbency helps Donald Trump. For this 
 
 Since World War II, incumbent presidents have won reelection in all but three cases. Despite this, there is reason to believe that 2020 will be different. For example, Joe Biden is currently leading by about 8 points nationally over incumbent President Donald Trump: https://projects.fivethirtyeight.com/polls/president-general/national/. Meanwhile on October 3, 2016, Hillary Clinton held only a 3.7% lead over then candidate Donald Trump: https://projects.fivethirtyeight.com/2016-election-forecast/national-polls/.
 	
-We can compare national polls taken between 32 and 34 days before the election and see how well they predict the popular vote for incumbent Presidents. This is shown in the graph below:
+We can compare national polls taken between 32 and 36 days before the election and see how well they predict the popular vote for incumbent Presidents. This is shown in the graph below:
+
+![Incumbent Polling Popular Vote](https://user-images.githubusercontent.com/70708980/94977049-0e5e1200-04e5-11eb-8ab1-275340cbfcc1.png)
 
 We see visually that there is a very high correlation between the incumbent President’s polling average and the actual popular vote, and this correlation turns out to be 0.978. To check that the model is not overfitted to the data, we can omit the 2012 election and see how well we predict it. We predict that Barack Obama would get about 49.1% of the popular vote, and he actually got 50.9%, so the model is accurate within a couple of percentage points.
 
