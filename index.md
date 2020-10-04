@@ -13,7 +13,7 @@ We can compare national polls taken between 32 and 36 days before the election a
 We see visually that there is a very high correlation between the incumbent President’s polling average and the actual popular vote, and this correlation turns out to be 0.966. To check that the model is not overfitted to the data, we can omit the 2012 election and see how well we predict it. We predict that Barack Obama would get about 0.8659(48.888) + 6.863 = 49.2% of the popular vote, and he actually got 50.9%, so the model is accurate within a couple of percentage points.
 
 
-According to 538, the latest polls have Donald Trump around 42%. Plugging this into the regression, we get a predicted national vote share of about 43%. This would put Donald Trump very low on the graph above, near 1980 and 1992, which are two of the three years since World War II that the incumbent President has lost reelection. It also puts him below 1976, where Gerald Ford lost to Jimmy Carter.
+According to 538, the latest polls have Donald Trump around 43%. Plugging this into the regression, we get a predicted national popular vote share of about 44% for him. This would put Donald Trump very low on the graph above, near 1980 and 1992, which are two of the three years since World War II that the incumbent President has lost reelection. It also puts him below 1976, where Gerald Ford lost to Jimmy Carter.
 
 At the end of last week, we predicted the following electoral map made using www.270towin.com based on the trends in polls by swing states compared to the actual vote in those swing states:
 
