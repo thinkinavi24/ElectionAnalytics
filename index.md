@@ -5,7 +5,9 @@ Question: How can we use binomial regression to predict the outcome of the swing
 Prediction: The binomial regression model predicts that Joe Biden will win nearly every swing state in 2020. Further, it gives him such a significant margin of victory that Donald Trump would not only have to exceed expectations, but blow them away significantly more than he did in 2016 to win reelection.  
 
 As noted two weeks ago, the ten main swing states this year are Pennsylvania, Florida, Michigan, Wisconsin, Georgia, Texas, Arizona, Iowa, North Carolina, and Ohio. In that blog post, where linear regression was used, the prediction was that Arizona, Texas, and Georgia would go Republican, while Wisconsin and Michigan would go Democrat. The closest states which were labeled as tossups were Pennsylvania, Florida, Iowa, North Carolina, and Ohio. Here, we focus on trying to narrow down what will happen in these states using binomial regression. 
-	Also noted in that blog post was the fact that the raw polls themselves do not necessarily reflect the actual vote margins in the state, and sometimes were wildly off. For this reason, we use the predicted numbers from those linear regressions as the probability of any individual voter within a state voting Democrat or Republican. To test the accuracy of this model, we check to see how well it does in predicting the swing states of 2016. 
+	Also noted in that blog post was the fact that the raw polls themselves do not necessarily reflect the actual vote margins in the state, and sometimes were wildly off. For this reason, we use the predicted numbers from those linear regressions as the probability of any individual voter within a state voting Democrat or Republican. To test the accuracy of this model, we check to see how well it does in predicting the swing states of 2016. An example for Florida is shown below:
+	
+![Clinton Florida](https://user-images.githubusercontent.com/70708980/95524958-c20d4900-09a0-11eb-84a7-eb27b09ae539.png)
 
 Now we consider 2020. We get the following:
 
