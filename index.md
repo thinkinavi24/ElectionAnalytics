@@ -9,11 +9,11 @@ As noted two weeks ago, the ten main swing states this year are Pennsylvania, Fl
 	
 ![Clinton Florida](https://user-images.githubusercontent.com/70708980/95524958-c20d4900-09a0-11eb-84a7-eb27b09ae539.png)
 
-In actuality, Hillary Clinton received 49.38% of the two party vote compared to Donald Trump's 50.62%, or a loss of 1.24%. While this is relatively close to the values in the distribution above, 
+In actuality, Hillary Clinton received 49.38% of the two party vote compared to Donald Trump's 50.62%, or a loss of 1.24%. While this is relatively close to the values in the distribution above, we can note that the binomial regression predicts with near 100% probability that the difference would be between -1.85% and -1.75%, which is not accurate. This tells us that we should pay more attention the the binomial predicted mean than its predicted variability in outcomes.
 
 Now we consider 2020. We get the following:
 
-One questionable attribute of this model is the extremely narrow variance that it predicts. According to this model, there appears to be a near 100% chance that the vote margin falls within 0.1% of the mean, which is very narrow. While the binomial distribution is good for modeling repeated events, it does not account for the widespread unpredictability of presidential elections. 
+As mentioned above, one questionable attribute of this model is the extremely narrow variance that it predicts. While the binomial distribution is good for modeling repeated events, it does not account for the widespread unpredictability of presidential elections. 
 
 Despite this, according to this model, we would get that Joe Biden would win about 340 electoral votes. Even if this model does not predict every swing state correctly, Joe Biden still has a comfortable enough lead that we can still predict that he will win on November 3.
 
