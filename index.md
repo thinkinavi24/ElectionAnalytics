@@ -11,12 +11,12 @@ As noted two weeks ago, the ten main swing states this year are Pennsylvania, Fl
 
 In actuality, Hillary Clinton received 49.38% of the two party vote compared to Donald Trump's 50.62%, or a loss of 1.24%. While this is relatively close to the values in the distribution above, we can note that the binomial regression predicts with near 100% probability that the difference would be between -1.85% and -1.75%, which is not accurate. This tells us that we should pay more attention the the binomial predicted mean than its predicted variability in outcomes.
 
-Now we consider 2020. We get the following:
+Now we consider 2020. We get the following distributions for Ohio and North Carolina:
 
 ![Biden North Carolina](https://user-images.githubusercontent.com/70708980/95524955-c174b280-09a0-11eb-974e-9cc8f63e3342.png)
 ![Biden Ohio](https://user-images.githubusercontent.com/70708980/95524956-c174b280-09a0-11eb-92cf-03306b470e97.png)
 
-As mentioned above, one questionable attribute of this model is the extremely narrow variance that it predicts. While the binomial distribution is good for modeling repeated events, it does not account for the widespread unpredictability of presidential elections. 
+As mentioned above, one questionable attribute of this model is the extremely narrow variance that it predicts. While the binomial distribution is good for modeling repeated events, it does not account for the widespread unpredictability of presidential elections. For this reason, the binomial distribution does not give us too much information beyond the pointwise mean estimate that the linear regressions gave us two weeks ago. The distributions for Pennsylvania, Florida, and Iowa are similar, where the mean has Joe Biden up by 1 or 2 percentage points but the variance does not reflect reality.
 
 Despite this, according to this model, we would get that Joe Biden would win about 340 electoral votes. Even if this model does not predict every swing state correctly, Joe Biden still has a comfortable enough lead that we can still predict that he will win on November 3.
 
