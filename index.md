@@ -13,6 +13,9 @@ In actuality, Hillary Clinton received 49.38% of the two party vote compared to 
 
 Now we consider 2020. We get the following:
 
+![Biden North Carolina](https://user-images.githubusercontent.com/70708980/95524955-c174b280-09a0-11eb-974e-9cc8f63e3342.png)
+![Biden Ohio](https://user-images.githubusercontent.com/70708980/95524956-c174b280-09a0-11eb-92cf-03306b470e97.png)
+
 As mentioned above, one questionable attribute of this model is the extremely narrow variance that it predicts. While the binomial distribution is good for modeling repeated events, it does not account for the widespread unpredictability of presidential elections. 
 
 Despite this, according to this model, we would get that Joe Biden would win about 340 electoral votes. Even if this model does not predict every swing state correctly, Joe Biden still has a comfortable enough lead that we can still predict that he will win on November 3.
