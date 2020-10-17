@@ -14,6 +14,11 @@ To assess the accuracy of this model, we can use out of sample testing to try to
 
 Continuing like this, we get the following models, where we choose the dependent variable based on which demographic has the highest correlation with the two party popular vote in that state:
 
+![Pennsylvania vs White](https://user-images.githubusercontent.com/70708980/96352157-29a55180-108f-11eb-8fbe-2c198030caa8.png)
+![Georgia vs Male](https://user-images.githubusercontent.com/70708980/96352158-29a55180-108f-11eb-995c-e0eba3ac648e.png)
+![Arizona vs Male](https://user-images.githubusercontent.com/70708980/96352159-2a3de800-108f-11eb-8ba0-d44965b72308.png)
+
+
 **Using Binomial Regression Models and Polling to Predict 2020**
 
 Question: How can we use binomial regression to predict the outcome of the swing states?
