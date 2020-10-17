@@ -1,3 +1,19 @@
+**Using Demographic Changes Over Time to Predict the 2020 Election**
+
+Question: How can we use shifting demographics in key swing states to predict the 2020 election?
+
+Prediction: Based on how demographics have changed over time, we can predict that Joe Biden will win the 2020 election.
+
+Demographics within a population can often give insight into how that population will vote. For example, it is well known that African Americans tend to vote Democrat, while senior citizens tend to vote Republican. Here, we look at the relationship between the demographics of each of the main swing states for 2020 based on race, gender, and age and see how well these factors predict the popular vote within that state.
+
+As mentioned in previous blog posts, the ten main swing states in 2020 are Arizona, Florida, Georgia, Iowa, Michigan, North Carolina, Ohio, Pennsylvania, Texas, and Wisconsin. In the very first blog post, we saw that the south has been getting more blue over time while the midwest has been becoming more red. Here, we examine demographically why that might be happening and what it means for 2020. Rather than focus on all ten swing states, we focus our attention towards Arizona, Georgia, North Carolina, and Pennsylvania, since these are the states that have the highest correlations between the actual two party vote and certain demographics. 
+
+We only have access to demographic data through 2018 for each state, which is two years before this year’s election. To be consistent with this to best predict 2020, we create linear regressions between the popular vote in each state and shifting demographics two years earlier. We see the following for Arizona and Georgia:
+
+To assess the accuracy of this model, we can use out of sample testing to try to predict 2016. In Georgia, if we omit the 2014 demographic data and the 2016 election results, we get the equation y = -10.26x + 541.42. Then, using the fact that in 2014 the population of Georgia was 48.17% male, we predict a Democratic two party vote of -10.26(48.17) + 541.42 = 47.20%, while the actual two party vote was 47.34%. This gives us confidence that even though our model is univariate, it still is accurate and we can use it to predict 2020.
+
+Continuing like this, we get the following models, where we choose the dependent variable based on which demographic has the highest correlation with the two party popular vote in that state:
+
 **Using Binomial Regression Models and Polling to Predict 2020**
 
 Question: How can we use binomial regression to predict the outcome of the swing states?
