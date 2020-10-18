@@ -9,8 +9,7 @@ Demographics within a population can often give insight into how that population
 As mentioned in previous blog posts, the ten main swing states in 2020 are Arizona, Florida, Georgia, Iowa, Michigan, North Carolina, Ohio, Pennsylvania, Texas, and Wisconsin. In the very first blog post, we saw that the south has been getting more blue over time while the midwest has been becoming more red. Here, we examine demographically why that might be happening and what it means for 2020. Rather than focus on all ten swing states, we focus our attention towards Arizona, Georgia, North Carolina, and Pennsylvania, since these are the states that have the highest correlations between the actual two party vote and certain demographics. 
 
 We only have access to demographic data through 2018 for each state, which is two years before this year’s election. To be consistent with this to best predict 2020, we create linear regressions between the popular vote in each state and shifting demographics two years earlier. We see the following for Arizona and Georgia:
-
-![Arizona vs Male](https://user-images.githubusercontent.com/70708980/96352159-2a3de800-108f-11eb-8ba0-d44965b72308.png)
+![Arizona vs Male](https://user-images.githubusercontent.com/70708980/96356221-79990e00-10b9-11eb-8e7c-42fc6d4dc065.png)
 ![Georgia vs Male](https://user-images.githubusercontent.com/70708980/96352158-29a55180-108f-11eb-995c-e0eba3ac648e.png)
 
 To assess the accuracy of this model, we can use out of sample testing to try to predict 2016. In Georgia, if we omit the 2014 demographic data and the 2016 election results, we get the equation y = -10.26x + 541.42. Then, using the fact that in 2014 the population of Georgia was 48.17% male, we predict a Democratic two party vote of -10.26(48.17) + 541.42 = 47.20%, while the actual two party vote was 47.34%. This gives us confidence that even though our model is univariate, it still is accurate and we can use it to predict 2020.
