@@ -10,13 +10,17 @@ As mentioned in previous blog posts, the ten main swing states in 2020 are Arizo
 
 We only have access to demographic data through 2018 for each state, which is two years before this year’s election. To be consistent with this to best predict 2020, we create linear regressions between the popular vote in each state and shifting demographics two years earlier. We see the following for Arizona and Georgia:
 
+![Arizona vs Male](https://user-images.githubusercontent.com/70708980/96352159-2a3de800-108f-11eb-8ba0-d44965b72308.png)
+![Georgia vs Male](https://user-images.githubusercontent.com/70708980/96352158-29a55180-108f-11eb-995c-e0eba3ac648e.png)
+
 To assess the accuracy of this model, we can use out of sample testing to try to predict 2016. In Georgia, if we omit the 2014 demographic data and the 2016 election results, we get the equation y = -10.26x + 541.42. Then, using the fact that in 2014 the population of Georgia was 48.17% male, we predict a Democratic two party vote of -10.26(48.17) + 541.42 = 47.20%, while the actual two party vote was 47.34%. This gives us confidence that even though our model is univariate, it still is accurate and we can use it to predict 2020.
 
-Continuing like this, we get the following models, where we choose the dependent variable based on which demographic has the highest correlation with the two party popular vote in that state:
+Plugging in the 2018 male populations in Arizona and Georgia gives a predicted outcome that Joe Biden will receive -7.393(49.406) + 411.753 = 46.494% of the two party vote in Arizona and -10.28(48.06) + 542.42 = 48.3632% of the two party vote in Georgia.
+
+We get the following model for Pennsylvania, where we look at the white population instead of the male population because the white population has a historically higher correlation with the two party vote in Pennsylvania:
 
 ![Pennsylvania vs White](https://user-images.githubusercontent.com/70708980/96352157-29a55180-108f-11eb-8fbe-2c198030caa8.png)
-![Georgia vs Male](https://user-images.githubusercontent.com/70708980/96352158-29a55180-108f-11eb-995c-e0eba3ac648e.png)
-![Arizona vs Male](https://user-images.githubusercontent.com/70708980/96352159-2a3de800-108f-11eb-8ba0-d44965b72308.png)
+
 
 
 **Using Binomial Regression Models and Polling to Predict 2020**
