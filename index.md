@@ -21,7 +21,7 @@ We get the following model for Pennsylvania, where we look at the white populati
 
 ![Pennsylvania vs White](https://user-images.githubusercontent.com/70708980/96352157-29a55180-108f-11eb-8fbe-2c198030caa8.png)
 
-
+Then, plugging in the 2018 white population in Pennsylvania, we predict that Joe Biden will receive 0.4702(78.744) + 13.198 = 50.224% of the two party vote, a very slim victory. These predictions, where Arizona and Georgia both go red but Biden is slightly favored in Pennsylvania, are consistent with the predictions from the polling week. Since we previously have predicted that Joe Biden will win in 2020, we can continue to believe that prediction will hold.
 
 **Using Binomial Regression Models and Polling to Predict 2020**
 
