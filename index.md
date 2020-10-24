@@ -2,7 +2,7 @@
 
 Question: How have deaths due to COVID 19 impacted Donald Trump’s polling numbers throughout 2020?
 
-Prediction: In some of the key swing states, Donald Trump’s polling numbers have decreased slightly when measured against deaths due to COVID 19, but this has not been a universal trend, and the correlations are not particularly high. Further, there is no recent precedent for a global pandemic of this scale during an election year. While Joe Biden’s lead did begin to increase around March or April when the virus began to spread within the United States, this is also when Joe Biden became the nominee, so he began to receive all of Democratic support and enthusiasm at that time.
+Prediction: In some of the key swing states, Donald Trump’s polling numbers have decreased slightly when measured against deaths due to COVID 19, but this has not been a universal trend, and the correlations are not particularly high. Further, there is no recent precedent for a global pandemic of this scale during an election year. While Joe Biden’s lead did begin to increase around March or April when the virus began to spread within the United States, this is also when Joe Biden became the nominee, so he began to receive all of Democratic support and enthusiasm at that time. Overall, the impact of COVID 19 does not appear to be clear, so we stick with last week's prediction that Joe Biden is favored to win in 2020.
 
 While many unusual events have occurred in 2020, from the largest conversations on race since the 1960s and a race to confirm a Supreme Court justice in the narrowest window ever before an election, the most jarring event this year has undoubtedly been COVID 19, which at this point has become a backdrop for all of these other issues. In a matter of weeks, nearly all gatherings became virtual or were cancelled, while unemployment skyrocketed. Predictions based on the improbability of replacing an incumbent president during a booming economy vanished, and all other issues nationwide became secondary as countless lives were lost. 
 
@@ -17,7 +17,7 @@ However, in Texas, we actually see a slightly positive trend:
 
 ![COVID TX](https://user-images.githubusercontent.com/70708980/97065390-f2e1a680-157a-11eb-9f19-35d580ac6138.png)
 
-In both of these cases, the correlations are fairly low, and the R^2 value indicates that COVID 19 deaths actually account for less than 10% of the overall variation in Donald Trump's poll numbers. 
+In each of these cases, the correlations are fairly low, and the R^2 value indicates that COVID 19 deaths actually account for less than 10% of the overall variation in Donald Trump's poll numbers. 
 
 **Using Demographic Changes Over Time to Predict the 2020 Election**
 
