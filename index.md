@@ -13,6 +13,7 @@ Here, we look at the relationship between deaths over time in key swing states a
 ![COVID AZ](https://user-images.githubusercontent.com/70708980/97065393-f37a3d00-157a-11eb-81f2-09606c390030.png)
 ![COVID FL](https://user-images.githubusercontent.com/70708980/97065394-f37a3d00-157a-11eb-996a-268ef4e5777d.png)
 
+In both of these cases, the correlations are fairly low, and the R^2 value indicates that COVID 19 deaths actually account for less than 10% of the overall variation in Donald Trump's poll numbers. 
 
 **Using Demographic Changes Over Time to Predict the 2020 Election**
 
