@@ -10,6 +10,9 @@ More recently, Donald Trump himself tested positive for COVID 19. He has touted 
 
 Here, we look at the relationship between deaths over time in key swing states and Donald Trump’s polling numbers in those states. In Arizona and Florida, we see negative trends, although they are very slight:
 
+![COVID AZ](https://user-images.githubusercontent.com/70708980/97065393-f37a3d00-157a-11eb-81f2-09606c390030.png)
+![COVID FL](https://user-images.githubusercontent.com/70708980/97065394-f37a3d00-157a-11eb-996a-268ef4e5777d.png)
+
 
 **Using Demographic Changes Over Time to Predict the 2020 Election**
 
