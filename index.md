@@ -17,7 +17,7 @@ However, in Texas, we actually see a slightly positive trend:
 
 ![COVID TX](https://user-images.githubusercontent.com/70708980/97065390-f2e1a680-157a-11eb-9f19-35d580ac6138.png)
 
-In each of these cases, the correlations are fairly low, and the R^2 values in each of these swing states indicate that COVID 19 deaths actually account for less than 10% of the overall variation in Donald Trump's poll numbers. 
+In each of these cases, the correlations are fairly low, and the R^2 values in each of these swing states indicate that COVID 19 deaths actually account for less than 10% of the overall variation in Donald Trump's poll numbers. Combined with the fact that the trends vary from one swing state to the next, it appears that deaths due to COVID 19 are not actually a great predictor of Donald Trump's poll numbers. Perhaps this can be attributed to the fact that polls vary wildly, or maybe people do not blame him for these deaths as much as people would predict. Despite this, COVID 19 remains a key issue in the 2020 election, and its impact on voters is made all the more mysterious by these observations. We stick with last week's prediction based on demographics that Joe Biden will win in 2020.
 
 **Using Demographic Changes Over Time to Predict the 2020 Election**
 
