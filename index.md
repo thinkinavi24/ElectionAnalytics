@@ -2,11 +2,13 @@
 
 Question: Who will win in 2020?
 
-Prediction: Joe Biden will win the 2020 election with an electoral college breakdown of 334-204 and a two party popular vote breakdown of 
+Prediction: Joe Biden will win the 2020 election with an electoral college breakdown of 351-187 and a two party popular vote breakdown of 55%-45%.
 
 Over the past several weeks, we have considered a variety of factors to try to predict the outcome of the 2020 election, including the economy, polls, demographics, COVID 19, and more. Of these, polls have had the highest correlations and the best out of sample predictability when testing them on predicting the 2016 election. For this reason, we use polls to make our final prediction for 2020.
 
-As mentioned in previous blog posts, the ten swing states to watch this year are Arizona, Florida, Georgia, Iowa, Michigan, North Carolina, Ohio, Pennsylvania, Texas, and Wisconsin. It is worth noting that Donald Trump won all of these in 2016. This model assumes that Joe Biden will not lose any of the states that Hillary Clinton won. 
+We begin with the popular vote. 
+
+Now we switch to the electoral college. As mentioned in previous blog posts, the ten swing states to watch this year are Arizona, Florida, Georgia, Iowa, Michigan, North Carolina, Ohio, Pennsylvania, Texas, and Wisconsin. It is worth noting that Donald Trump won all of these in 2016. This model assumes that Joe Biden will not lose any of the states that Hillary Clinton won. 
 
 For these swing states, we construct regression models between the average polling margin ten to four days before the election and the actual historical margin (Republican two party vote - Democratic two party vote). We then look at what the averages are in 2020 and what we predict. 
 
