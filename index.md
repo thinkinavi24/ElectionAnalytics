@@ -8,7 +8,8 @@ Over the past several weeks, we have considered a variety of factors to try to p
 
 We begin with the popular vote. 
 
-![Final Popular Vote](https://user-images.githubusercontent.com/70708980/97816027-4b423380-1c60-11eb-8a6d-15ec5d9ef0f6.png)
+![Final Popular Vote](https://user-images.githubusercontent.com/70708980/97816066-86446700-1c60-11eb-9f04-7d4ef6b21ef3.png)
+
 
 Now we switch to the electoral college. As mentioned in previous blog posts, the ten swing states to watch this year are Arizona, Florida, Georgia, Iowa, Michigan, North Carolina, Ohio, Pennsylvania, Texas, and Wisconsin. It is worth noting that Donald Trump won all of these in 2016. This model assumes that Joe Biden will not lose any of the states that Hillary Clinton won. 
 
