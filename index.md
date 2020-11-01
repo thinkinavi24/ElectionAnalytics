@@ -1,3 +1,30 @@
+Question: Who will win in 2020?
+
+Prediction: Joe Biden will win the 2020 election with an electoral college breakdown of 334-204 and a two party popular vote breakdown of 
+
+Over the past several weeks, we have considered a variety of factors to try to predict the outcome of the 2020 election, including the economy, polls, demographics, COVID 19, and more. Of these, polls have had the highest correlations and the best out of sample predictability when testing them on predicting the 2016 election. For this reason, we use polls to make our final prediction for 2020.
+
+As mentioned in previous blog posts, the ten swing states to watch this year are Arizona, Florida, Georgia, Iowa, Michigan, North Carolina, Ohio, Pennsylvania, Texas, and Wisconsin. It is worth noting that Donald Trump won all of these in 2016. This model assumes that Joe Biden will not lose any of the states that Hillary Clinton won. 
+
+For these swing states, we construct regression models between the average polling margin ten to four days before the election and the actual historical margin (Republican two party vote - Democratic two party vote). We then look at what the averages are in 2020 and what we predict. 
+
+If we test this model on these ten states in 2016, we predict the outcome correctly in Arizona, Georgia, Ohio, and Texas. It predicts tossups in Florida, Iowa, North Carolina while predicting Pennsylvania, Michigan, and Wisconsin. While this is not a great performance, in general 2016 underestimated the uneducated white male voter turnout, and pollsters this year are weighting by education more: https://www.washingtonpost.com/politics/2020/10/29/how-2020-polling-works/. Thus, we stick with this model and use it to predict 2020. 
+
+If we do this, it appears that Michigan and Wisconsin are safely in Joe Biden’s grasp, while Texas and Ohio will likely go Republican. While this model predicts that Iowa will be an extremely close race, Donald Trump’s overwhelming victory there in 2016 suggests that he will carry the state in 2020. Meanwhile, Arizona, Florida, Georgia, North Carolina, and Pennsylvania remain quite narrow, although Joe Biden has slight leads in all of them.
+
+To try to figure out what will happen here, we go beyond the regressions and look at the actual data. Arizona has voted Republican every year since 1952 except for Bill Clinton’s victory there in 1996, where he was polling at approximately 46% at this point in the election cycle. Joe Biden is the only Democrat in recent history to poll over 50%, and exceeds Bill Clinton’s polling margins by several percentage points. This suggests that Arizona will flip this year.
+
+We can also look at the Senate races for each of these swing states, since these can also give an idea as to which way the state will vote. According to 538, the Democratic candidate is expected to win in Arizona, Michigan, North Carolina, and Wisconsin. The Republican candidate is expected to win in Iowa, Ohio, and Texas. In Georgia, a Democratic is expected to win one seat while a Republican is expected to win the other, and there are no senators up for election in Florida or Pennsylvania. 
+
+For these reasons, we forecast Arizona and North Carolina as going blue. Florida is a coin flip, but we will predict it will go blue on the basis that Florida generally votes for the winner and that Mike Bloomberg has spent 100 million dollars there in support of Joe Biden. Lastly, although the regression analysis predicts that Joe Biden will win Georgia by about three points, it is a state known for vote
+
+Thus, we predict that Joe Biden will win Arizona, Florida, Michigan, North Carolina, Pennsylvania, and Wisconsin and that Donald Trump will win Georgia, Iowa, Ohio, and Texas. This is summarized in the electoral map below, constructed using www.270towin.com: 
+
+<div align="center"><a href="https://www.270towin.com/maps/pA3W6"><img src="https://www.270towin.com/map-images/pA3W6.png" width="800"></a><br><small><img style="vertical-align:middle;" src="https://www.270towin.com/uploads/3rd_party_270_30px.png" alt="" /> Click the map to create your own at <a href="https://www.270towin.com/maps/pA3W6">270toWin.com</a></small></div>
+
+One thing worth noting is that if Joe Biden holds onto every state that Hillary Clinton won, and flips Michigan, Wisconsin, and the second district in Nebraska, that puts him at 259 electoral votes. This means that he only has to win one of Arizona, Florida, Georgia, North Carolina, and Pennsylvania in order to win. Overall, it is likely that Joe Biden will win in 2020.
+
+
 **The Effect of COVID 19 on Donald Trump's Reelection Chances**
 
 Question: How have deaths due to COVID 19 impacted Donald Trump’s polling numbers throughout 2020?
