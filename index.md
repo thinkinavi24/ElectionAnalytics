@@ -20,6 +20,8 @@ We can also look at the Senate races for each of these swing states, since these
 
 For these reasons, we forecast Arizona and North Carolina as going blue. Florida is a coin flip, but we will predict it will go blue on the basis that Florida generally votes for the winner and that Mike Bloomberg has spent 100 million dollars there in support of Joe Biden. In Georgia, the correlation between the poll margins and the actual vote margins is 0.98, and we can see this visually below:
 
+![Georgia Margins](https://user-images.githubusercontent.com/70708980/97809065-a6f8c680-1c38-11eb-88bd-eb9aaf0eae12.png)
+
 Thus, we predict that Joe Biden will win Arizona, Florida, Georgia, Michigan, North Carolina, Pennsylvania, and Wisconsin and that Donald Trump will win Iowa, Ohio, and Texas. This is summarized in the electoral map below, constructed using www.270towin.com: 
 
 <div align="center"><a href="https://www.270towin.com/maps/pA3W6"><img src="https://www.270towin.com/map-images/pA3W6.png" width="800"></a><br><small><img style="vertical-align:middle;" src="https://www.270towin.com/uploads/3rd_party_270_30px.png" alt="" /> Click the map to create your own at <a href="https://www.270towin.com/maps/pA3W6">270toWin.com</a></small></div>
