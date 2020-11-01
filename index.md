@@ -8,6 +8,8 @@ Over the past several weeks, we have considered a variety of factors to try to p
 
 We begin with the popular vote. 
 
+![Final Popular Vote](https://user-images.githubusercontent.com/70708980/97816027-4b423380-1c60-11eb-8a6d-15ec5d9ef0f6.png)
+
 Now we switch to the electoral college. As mentioned in previous blog posts, the ten swing states to watch this year are Arizona, Florida, Georgia, Iowa, Michigan, North Carolina, Ohio, Pennsylvania, Texas, and Wisconsin. It is worth noting that Donald Trump won all of these in 2016. This model assumes that Joe Biden will not lose any of the states that Hillary Clinton won. 
 
 For these swing states, we construct regression models between the average polling margin ten to four days before the election and the actual historical margin (Republican two party vote - Democratic two party vote). We then look at what the averages are in 2020 and what we predict. 
