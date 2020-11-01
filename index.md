@@ -16,7 +16,7 @@ Nevertheless, if we construct these models, it appears that Michigan and Wiscons
 
 To try to figure out what will happen here, we go beyond the regressions and look at the actual data. Arizona has voted Republican every year since 1952 except for Bill Clinton’s victory there in 1996, where he was polling at approximately 46% at this point in the election cycle. Joe Biden is the only Democrat in recent history to poll over 50%, and exceeds Bill Clinton’s polling margins by several percentage points. This suggests that Arizona will flip this year. We can visually see by the picture below that the margins are a good predictor, and indeed the correlation is approximately 0.91:
 
-
+![Arizona Margin](https://user-images.githubusercontent.com/70708980/97815861-1da8ba80-1c5f-11eb-962b-70c366a249a0.png)
 
 We can also look at the Senate races for each of these swing states, since these can also give an idea as to which way the state will vote. According to 538, the Democratic candidate is expected to win in Arizona, Michigan, North Carolina, and Wisconsin. The Republican candidate is expected to win in Iowa, Ohio, and Texas. In Georgia, a Democratic is expected to win one seat while a Republican is expected to win the other, and there are no senators up for election in Florida or Pennsylvania. 
 
