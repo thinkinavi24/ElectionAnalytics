@@ -1,7 +1,17 @@
 **Post Election Reflection**
 
-![Actual minus Predicted Democratic Two Party Vote ](https://user-images.githubusercontent.com/70708980/99834260-4f5fc380-2b31-11eb-8a1c-bee6dd2c7483.png)
+In my model, I predicted 48 states correctly, missing Florida and North Carolina. I acknowledged that both of these states, along with Pennsylvania, Arizona, and Georgia were the closest swing states. 
+
+Both Florida and North Carolina were coin flips according to my regressions. I put North Carolina as blue because Cal Cunningham was expected to defeat Republican incumbent Senator Thom Tillis. However, despite Joe Biden winning the presidency, Democrats performed quite poorly in congressional races, and North Carolina was no exception. Also, once my regression predicted that Georgia would probably go blue, I felt that it was impossible to imagine an electoral map with a blue Georgia and a red Florida and North Carolina. Florida went blue as recently as 2012, and North Carolina as recently as 2008. Even when Republicans won both states, the races were far narrower than in Georgia. As it turned out, Georgia in all likelihood will go blue following the recount, while Donald Trump held onto Florida and North Carolina. 
+
+Broadly, the polls seemed to indicate that a blue tsunami was coming all across the country, similar to Barack Obama’s in 2008. Instead, we got the following swing map:
+
 ![2016-2020 swing map](https://user-images.githubusercontent.com/70708980/99834263-4ff85a00-2b31-11eb-8ccf-13360b57b19d.png)
+
+We see that in general most states were more blue than in 2016, with the notable exception of Hillary Clinton’s home state of New York, but not to nearly the same degree as we saw in 2008. Among the swing states, only Florida became more red than in 2016. Below, we see a bar chart comparing the difference between the predicted Democratic two party vote and the actual two party vote for 2020:
+
+![Actual minus Predicted Democratic Two Party Vote ](https://user-images.githubusercontent.com/70708980/99834260-4f5fc380-2b31-11eb-8a1c-bee6dd2c7483.png)
+
 
 
 **Final Election Prediction**
