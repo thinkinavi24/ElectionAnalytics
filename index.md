@@ -1,3 +1,9 @@
+**Post Election Reflection**
+
+![Actual minus Predicted Democratic Two Party Vote ](https://user-images.githubusercontent.com/70708980/99834260-4f5fc380-2b31-11eb-8a1c-bee6dd2c7483.png)
+![2016-2020 swing map](https://user-images.githubusercontent.com/70708980/99834263-4ff85a00-2b31-11eb-8ccf-13360b57b19d.png)
+
+
 **Final Election Prediction**
 
 Question: Who will win in 2020?
