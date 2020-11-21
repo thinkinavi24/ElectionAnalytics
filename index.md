@@ -2,7 +2,7 @@
 
 In my model, I predicted 48 states correctly, missing Florida and North Carolina. In my prediction, I believed that both of these states, along with Pennsylvania, Arizona, and Georgia were going to be the closest swing states. 
 
-Both Florida and North Carolina were coin flips according to my regressions. I put North Carolina as blue because Cal Cunningham was expected to defeat Republican incumbent Senator Thom Tillis. However, despite Joe Biden winning the presidency, Democrats performed quite poorly in congressional races, and North Carolina was no exception. Also, once my regression predicted that Georgia would probably go blue, I felt that it was impossible to imagine an electoral map with a blue Georgia and a red Florida and North Carolina. Florida went blue as recently as 2012, and North Carolina as recently as 2008. Even when Republicans won both states, the races were far narrower than in Georgia. As it turned out, Georgia in all likelihood will go blue following the recount, while Donald Trump held onto Florida and North Carolina. 
+Both Florida and North Carolina were coin flips according to my regressions. I put North Carolina as blue because Cal Cunningham was expected to defeat Republican incumbent Senator Thom Tillis. However, despite Joe Biden winning the presidency, Democrats performed quite poorly in congressional races, and North Carolina was no exception. Also, once my regression predicted that Georgia would probably go blue, I felt that it was impossible to imagine an electoral map with a blue Georgia and a red Florida and North Carolina. Florida went blue as recently as 2012, and North Carolina as recently as 2008. Even when Republicans won both states, the races were far narrower than in Georgia. As it turned out, Georgia ended up going blue by a slim margin, while Donald Trump held onto Florida and North Carolina. 
 
 Broadly, the polls seemed to indicate that a blue tsunami was coming all across the country, similar to Barack Obama’s in 2008. Instead, we got the following swing map:
 
@@ -12,7 +12,7 @@ We see that in general most states were more blue than in 2016, with the notable
 
 ![Actual minus Predicted Democratic Two Party Vote ](https://user-images.githubusercontent.com/70708980/99834260-4f5fc380-2b31-11eb-8a1c-bee6dd2c7483.png)
 
-We see from this graphic that the largest errors were in Wisconsin, Iowa, and 
+We see from this graphic that the largest errors were in Wisconsin, Iowa, and Michigan, even though I predicted all three results correctly. In general, this model overestimated Joe Biden's winning margin in 9 of the 10 swing states. 
 
 As in 2016, Donald Trump certainly shocked the pollsters, dramatically outperforming expectations in 49 out of 50 states. Not only did he win Florida, but he did so by a margin not seen since George W Bush’s victory there in 2004. One key reason appears to be that the Latino community is not as safely in Democratic hands as it used to be. Perhaps Donald Trump’s claims that the Democrats would institute socialism frightened people in Florida of Cuban descent. 
 	
