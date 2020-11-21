@@ -1,6 +1,6 @@
 **Post Election Reflection**
 
-In my model, I predicted 48 states correctly, missing Florida and North Carolina. I acknowledged that both of these states, along with Pennsylvania, Arizona, and Georgia were the closest swing states. 
+In my model, I predicted 48 states correctly, missing Florida and North Carolina. In my prediction, I believed that both of these states, along with Pennsylvania, Arizona, and Georgia were going to be the closest swing states. 
 
 Both Florida and North Carolina were coin flips according to my regressions. I put North Carolina as blue because Cal Cunningham was expected to defeat Republican incumbent Senator Thom Tillis. However, despite Joe Biden winning the presidency, Democrats performed quite poorly in congressional races, and North Carolina was no exception. Also, once my regression predicted that Georgia would probably go blue, I felt that it was impossible to imagine an electoral map with a blue Georgia and a red Florida and North Carolina. Florida went blue as recently as 2012, and North Carolina as recently as 2008. Even when Republicans won both states, the races were far narrower than in Georgia. As it turned out, Georgia in all likelihood will go blue following the recount, while Donald Trump held onto Florida and North Carolina. 
 
