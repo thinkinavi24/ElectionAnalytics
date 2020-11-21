@@ -14,7 +14,7 @@ We see that in general most states were more blue than in 2016, with the notable
 
 We see from this graphic that the largest errors were in Wisconsin, Iowa, and Michigan, even though I predicted all three results correctly. In general, this model overestimated Joe Biden's winning margin in 9 of the 10 swing states. But in 6 of the 10 swing states, the margin of error was less than 2%, making this a reasonably accurate model. In Florida, but he did so by a margin not seen since George W Bush’s victory there in 2004. One key reason appears to be that the Latino community is not as safely in Democratic hands as it used to be. Perhaps Donald Trump’s claims that the Democrats would institute socialism frightened people in Florida of Cuban descent, or perhaps the fact that Florida has narrowly gotten redder every year since Obama's blue wave in 2008 suggests that there should be more emphasis given to recent elections, rather than treating all of the previous ones equally. 
 	
-If I were to do this again, I likely would incorporate demographic data.
+If I were to do this again, I likely would incorporate historical trends, in the spirit of the swing map above and the other swing maps from week 1. An Obama style blue wave is very rare, so even though the polls overwhelmingly favored Joe Biden, the reddening trends in places like Florida are important to consider.
 
 
 **Final Election Prediction**
