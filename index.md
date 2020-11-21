@@ -12,6 +12,8 @@ We see that in general most states were more blue than in 2016, with the notable
 
 ![Actual minus Predicted Democratic Two Party Vote ](https://user-images.githubusercontent.com/70708980/99834260-4f5fc380-2b31-11eb-8a1c-bee6dd2c7483.png)
 
+We see from this graphic that the largest errors were in Wisconsin, Iowa, and 
+
 As in 2016, Donald Trump certainly shocked the pollsters, dramatically outperforming expectations in 49 out of 50 states. Not only did he win Florida, but he did so by a margin not seen since George W Bush’s victory there in 2004. One key reason appears to be that the Latino community is not as safely in Democratic hands as it used to be. Perhaps Donald Trump’s claims that the Democrats would institute socialism frightened people in Florida of Cuban descent. 
 	
 If I were to do this again, I likely would incorporate demographic data.
